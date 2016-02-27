@@ -2,6 +2,7 @@ Change 1  --->CHANGE1
 change 2
 
 
+<<<<<<< HEAD
 welcome master
 123
 
@@ -11,3 +12,8 @@ welcome master
 wish i was your... by@Enrique
 shridhar
 
+=======
+wish i was your... by@Enrique
+
+by vikram salunkhe
+>>>>>>> idea
